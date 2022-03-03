@@ -1,2 +1,2 @@
 # MIMI
-just my project
+just my project!
